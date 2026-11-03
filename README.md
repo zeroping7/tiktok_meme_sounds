@@ -14,5 +14,6 @@ Sonidos de memes para editar vídeos de peleas para TikTok.
 | `camara_foto.mp3` | 0.7 s | Imagen congelada del golpe final (junto al vine boom) |
 | `musica_phonk.mp3` | 7.1 s | Música épica: cámara lenta + K.O. |
 | `cancion_final.mp3` | 7.3 s | Remate final (desconexión, etc.) |
+| `musica_triste_misteriosa.mp3` | 10.7 s | Música triste/graciosa/misteriosa |
 
 Para añadir sonidos nuevos: súbelos con un nombre descriptivo (minúsculas, guiones bajos) y añade una fila a esta tabla con su uso.
