@@ -15,5 +15,6 @@ Sonidos de memes para editar vídeos de peleas para TikTok.
 | `musica_phonk.mp3` | 7.1 s | Música épica: cámara lenta + K.O. |
 | `cancion_final.mp3` | 7.3 s | Remate final (desconexión, etc.) |
 | `musica_triste_misteriosa.mp3` | 10.7 s | Música triste/graciosa/misteriosa |
+| `nelson_haha.mp3` | 1.4 s | "Ja-ja" de burla: cuando un luchador señala al rival riéndose |
 
 Para añadir sonidos nuevos: súbelos con un nombre descriptivo (minúsculas, guiones bajos) y añade una fila a esta tabla con su uso.
